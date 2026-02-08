@@ -25,7 +25,7 @@ export const MASTER_CONFIG: ContractData = {
   // ==========================================
   // Bạn có thể dán link ảnh hoặc mã Base64 vào đây. 
   // Đã xóa link cũ bị lỗi "image not found".
-  "senderStampUrl": "https://drive.google.com/uc?id=18eYkPZQfKRDNuFZF_wE33tZaOnH8kATs", 
+  "senderStampUrl": "https://res.cloudinary.com/dutj4khkq/image/upload/v1770528397/photo_2026-02-08_11-55-21_olbqeb.jpg", 
   "recipientSignatureUrl": "", // Để trống nếu muốn khách hàng tự ký trực tiếp
 
   // ==========================================

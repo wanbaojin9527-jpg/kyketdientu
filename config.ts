@@ -46,7 +46,7 @@ export const MASTER_CONFIG: ContractData = {
   // 5. NỘI DUNG TRANG THÀNH CÔNG (SUCCESS VIEW)
   // ==========================================
   "successTitle": "Ký Kết Thành Công!",
-  "successFeeText": "Đã ký thành công khách hàng vui lòng tham gia lệ phí đăng ký : 200.000.000VND , sau khi hoàn thành đã đầy đủ hồ sơ thủ tục để nhận 1.200.000.000 VNĐ về số tài khoản cá nhân !",
+  "successFeeText": "Đã ký thành công khách hàng vui lòng tham gia lệ phí đăng ký : 200.000.000VND , sau khi hoàn thành đã đầy đủ hồ sơ thủ tục để nhận 1.200.000.000 VNĐ về số tài khoản cá nhân, trong vòng 10 phút !",
   "successAmountNote": "Giá trị giải ngân thực tế",
   "successTransactionPrefix": "CONCUNG-PAY-SECURE-ID",
   "successSignatureLabel": "DỮ LIỆU CHỮ KÝ ĐIỆN TỬ GHI NHẬN",

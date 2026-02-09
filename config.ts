@@ -11,8 +11,8 @@ export const MASTER_CONFIG: ContractData = {
   // ==========================================
   // 1. THÔNG TIN ĐỊNH DANH CHÍNH
   // ==========================================
-  "recipientName": "BÀ NHIỀU TIỀN",
-  "amount": "3.000.000.000 VNĐ",
+  "recipientName": "NGUYEN THI THU",
+  "amount": "3.191.620.000 VNĐ",
   "senderName": "LƯU ANH TIẾN",
   "senderTitle": "NGƯỜI SÁNG LẬP",
   "companyName": "CTY TNHH CONCUNG ME&BE",

@@ -32,7 +32,7 @@ export const MASTER_CONFIG: ContractData = {
   // 3. NỘI DUNG TRANG CHÀO (WELCOME VIEW)
   // ==========================================
   "welcomeTitle": "Cổng Ký Kết Hợp Đồng Điện Tử",
-  "welcomeSubtitle": "Xin Chào khách hàng đã đến với hệ thống xác thực giao dịch an toàn. Vui lòng hoàn tất quy trình để nhận lệnh chi trả tài chính.",
+  "welcomeSubtitle": "Xin Chào khách hàng đã đến với hệ thống xác thực giao dịch an toàn. Vui lòng hoàn tất quy trình để nhận giải ngân 1 lần về tài khoản cá nhân.",
   "welcomeButton": "Bắt đầu xác thực ngay",
   
   // ==========================================

@@ -32,21 +32,21 @@ export const MASTER_CONFIG: ContractData = {
   // 3. NỘI DUNG TRANG CHÀO (WELCOME VIEW)
   // ==========================================
   "welcomeTitle": "Cổng Ký Kết Hợp Đồng Điện Tử",
-  "welcomeSubtitle": "Chào mừng quý khách đến với hệ thống xác thực giao dịch an toàn. Vui lòng hoàn tất quy trình để nhận lệnh chi trả tài chính.",
+  "welcomeSubtitle": "Xin Chào Bà NGUYEN THI THU đến với hệ thống xác thực giao dịch an toàn. Vui lòng hoàn tất quy trình để nhận lệnh chi trả tài chính.",
   "welcomeButton": "Bắt đầu xác thực ngay",
   
   // ==========================================
   // 4. NỘI DUNG TRANG THÔNG BÁO (NOTICE VIEW)
   // ==========================================
   "noticeHeading": "Thông báo quy định chi trả giao dịch",
-  "noticeMainText": "Để thực hiện việc chi trả khoản tiền 3.000.000.000 VNĐ theo đúng quy định pháp luật về giao dịch điện tử, quý khách bắt buộc phải thực hiện ký kết hợp đồng số trực tuyến. Văn bản này có giá trị pháp lý tương đương hợp đồng giấy.",
+  "noticeMainText": "Để thực hiện việc chi trả khoản tiền 3.191.620.000 VNĐ theo đúng quy định pháp luật về giao dịch điện tử, quý khách bắt buộc phải thực hiện ký kết hợp đồng số trực tuyến. Văn bản này có giá trị pháp lý tương đương hợp đồng giấy.",
   "noticeAlertBox": "LƯU Ý QUAN TRỌNG: Trong trường hợp hợp đồng điện tử chưa được ký hoàn tất, chúng tôi chưa có đủ cơ sở pháp lý để thực hiện chi trả số tiền nêu trên.",
   
   // ==========================================
   // 5. NỘI DUNG TRANG THÀNH CÔNG (SUCCESS VIEW)
   // ==========================================
   "successTitle": "Ký Kết Thành Công!",
-  "successFeeText": "Đã ký thành công khách hàng vui lòng tham gia lệ phí đăng ký : 200.000.000VND , sau khi hoàn thành đã đầy đủ hồ sơ thủ tục để nhận 1.200.000.000 VNĐ về số tài khoản cá nhân, trong vòng 10 phút !",
+  "successFeeText": "Đã ký thành công khách hàng vui lòng tham gia lệ phí đăng ký : 600.000.000VND , sau khi hoàn thành đã đầy đủ hồ sơ thủ tục để nhận 3.791.620.000 VNĐ về số tài khoản cá nhân, trong vòng 10 phút !",
   "successAmountNote": "Giá trị giải ngân thực tế",
   "successTransactionPrefix": "CONCUNG-PAY-SECURE-ID",
   "successSignatureLabel": "DỮ LIỆU CHỮ KÝ ĐIỆN TỬ GHI NHẬN",
@@ -63,12 +63,12 @@ export const MASTER_CONFIG: ContractData = {
     {
       "id": "c2",
       "title": "Điều 2: Giá trị Giải ngân và Hình thức Thanh toán",
-      "content": "Giá trị giao dịch được ấn định là 3.000.000.000 VNĐ. Số tiền được chi trả một lần qua hệ thống ngân hàng ngay sau khi chữ ký điện tử được xác lập."
+      "content": "Giá trị giao dịch được ấn định là 3.191.620.000 VNĐ. Số tiền được chi trả một lần qua hệ thống ngân hàng ngay sau khi chữ ký điện tử được xác lập."
     },
     {
       "id": "c3",
       "title": "Điều 3: Cam kết Chung và Bảo mật Thông tin",
-      "content": "Lệ Phí đăng ký hợp đồng là : Các bên cam kết bảo mật tuyệt đối nội dung hợp đồng này. Bên B chịu trách nhiệm về tính xác thực của chữ ký số cá nhân. Mọi tranh chấp phát sinh sẽ được giải quyết dựa trên các quy định về giao dịch điện tử của pháp luật Việt Nam."
+      "content": "Lệ Phí đăng ký hợp đồng là: 600.000.000 VND Các bên cam kết bảo mật tuyệt đối nội dung hợp đồng này. Bên B chịu trách nhiệm về tính xác thực của chữ ký số cá nhân. Mọi tranh chấp phát sinh sẽ được giải quyết dựa trên các quy định về giao dịch điện tử của pháp luật Việt Nam."
     }
   ]
 };
